@@ -1,0 +1,3 @@
+# ignore png and svg files
+*.png
+*.svg
